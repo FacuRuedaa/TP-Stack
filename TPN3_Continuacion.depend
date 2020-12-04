@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1490112216 source:c:\users\facun\onedrive\desktop\programacion i\guias respuestas\guia 3 funciones\tpn3_continuacion\pila.c
+	"pila.h"
+
+1490112216 c:\users\facun\onedrive\desktop\programacion i\guias respuestas\guia 3 funciones\tpn3_continuacion\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1588082416 source:c:\users\facun\onedrive\desktop\programacion i\guias respuestas\guia 3 funciones\tpn3_continuacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+
